@@ -1,80 +1,53 @@
-<h1 align="center">Hi there, I'm Aabroo Farooq 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Python · SQL · Power BI · Machine Learning</h3>
+# Hi there, I'm Aabroo Farooq 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aabroofarooq99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aabroofarooq9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aabroo-farooq.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-16233B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+### Data Analyst | Python · SQL · Power BI · Machine Learning
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabroofarooq99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16233B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aabroo-farooq.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabroofarooq9@gmail.com)
 
 ---
 
 ### 🧭 About Me
-
-- 🎓 Currently pursuing a **Master of Computer Applications (MCA)** at Amity University, Noida (2024–2026)
-- ⚡ B.Tech in Electrical Engineering from the University of Kashmir — bringing an analytical, first-principles foundation to data work
-- 🔍 Interested in solving real-world problems using **data-driven approaches and machine learning**
-- 📊 Comfortable across the data workflow: collecting, cleaning, analyzing, visualizing, and reporting
-- 🌱 Currently exploring opportunities in **Data Science, Data Analytics, Machine Learning, and Business Intelligence**
-- 📍 Based in Jammu & Kashmir, India — open to on-site and hybrid roles
+- 🎓 Completed **Master of Computer Applications (MCA)** at Amity University (2026)
+- ⚡ B.Tech in Electrical Engineering, University of Kashmir
+- 📊 I work across the data workflow: collecting, cleaning, analysing, visualising and predicting
+- 🌱 Data Science Trainee at ILS, Srinagar; looking for roles in **Data Analytics, Data Science and Business Intelligence**
+- 📍 Jammu & Kashmir, India. Open to on-site and hybrid roles
 
 ---
 
 ### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-3E7C17?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-**[Flipkart Mobile Phones Web Scraper](https://github.com/Aabroo-Farooq)**
-`Python` `BeautifulSoup` `Requests`
-A Python web scraper that extracts mobile phone listing data from Flipkart — product name, price, and ratings — parsed from raw HTML and structured into CSV for downstream analysis. Built to handle inconsistent page structures gracefully.
+#### [Sales Prediction & Analysis](https://github.com/Aabroo-Farooq/Sales-Prediction-Analysis)
+`Python` `Pandas` `Matplotlib` `Seaborn` `scikit-learn`
+Cleaned 2,500 sales orders, analysed trends by category, region and season, and compared Linear Regression with Random Forest (R² 0.98) to predict order sales.
 
-**[Makeup Dataset Analysis](https://github.com/Aabroo-Farooq)**
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-Exploratory data analysis on a makeup/cosmetics product dataset — cleaning raw data, handling missing values, and visualizing trends and relationships to surface key findings.
+#### [House Price Prediction](https://github.com/Aabroo-Farooq/House-Price-Prediction)
+`Python` `Pandas` `Seaborn` `scikit-learn`
+Cleaned housing data, handled outliers, explored what drives prices, and compared three regression models with cross-validation (best R² 0.96).
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aabroo-Farooq&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabroo-Farooq&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aabroo-Farooq&hide_border=true" />
-</p>
+#### [Flipkart Mobile Phones Web Scraper](https://github.com/Aabroo-Farooq/Flipkart-Mobile-Phone-Web-Scraping)
+`Python` `BeautifulSoup`
+Python web scraper that collects mobile phone listing data from Flipkart and structures it for analysis.
 
 ---
 
 ### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/aabroofarooq99) · [Portfolio](https://aabroo-farooq.github.io/) · [Email](mailto:aabroofarooq9@gmail.com)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aabroofarooq99" target="_blank">LinkedIn</a> ·
-  <a href="mailto:aabroofarooq9@gmail.com" target="_blank">Email</a> ·
-  <a href="https://aabroo-farooq.github.io/" target="_blank">Portfolio</a>
-</p>
-
-<p align="center"><i>Open to Data Science, Data Analytics, Machine Learning, and BI opportunities — always happy to talk data.</i></p>
+*Open to Data Analytics, Data Science and BI opportunities. Always happy to talk data.*
